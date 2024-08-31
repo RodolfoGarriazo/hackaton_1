@@ -2,7 +2,9 @@
 Letizia Torres
 
 RODOLFO GARRIAZO RIVERA
+
 David Marcelo Quispe Velasquez
+
 Roger Zavaleta Alvino
 
 
