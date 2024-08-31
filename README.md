@@ -1,6 +1,11 @@
 # Hackathon 0: Dominando Git y GitHub 🚀
 Letizia Torres
 
+RODOLFO GARRIAZO RIVERA
+David Marcelo Quispe Velasquez
+Roger Zavaleta Alvino
+
+
 ## Consideraciones Generales 📋
 
 Bienvenidos a la primera hackathon del semestre 2024-2 del curso CS2031, Desarrollo Basado en Plataformas. En esta edición, nos centraremos exclusivamente en Git y GitHub, herramientas fundamentales para cualquier desarrollador. En lugar de enfocarnos en la escritura de código, nos dedicaremos a perfeccionar nuestras habilidades en el manejo de repositorios, la colaboración en equipos y la integración continua.
