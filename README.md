@@ -1,4 +1,6 @@
 # Hackathon 0: Dominando Git y GitHub 🚀
+David Marcelo Quispe Velasquez
+
 
 Roger Zavaleta Alvino
 
