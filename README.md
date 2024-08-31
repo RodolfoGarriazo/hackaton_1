@@ -1,4 +1,5 @@
 # Hackathon 0: Dominando Git y GitHub 🚀
+Letizia Torres
 
 ## Consideraciones Generales 📋
 
