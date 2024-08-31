@@ -1,8 +1,9 @@
 # Hackathon 0: Dominando Git y GitHub 🚀
+
+RODOLFO GARRIAZO RIVERA
 David Marcelo Quispe Velasquez
-
-
 Roger Zavaleta Alvino
+
 
 ## Consideraciones Generales 📋
 
